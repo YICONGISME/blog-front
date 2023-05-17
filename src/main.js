@@ -39,3 +39,4 @@ axios.interceptors.request.use((config)=>{
 app.mount('#app')
 
 console.error('test')
+console.error('testtest')
